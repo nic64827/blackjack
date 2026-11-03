@@ -1,0 +1,2 @@
+# blackjack
+gioco d'azzardo
